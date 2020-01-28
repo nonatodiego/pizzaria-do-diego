@@ -2,7 +2,7 @@
 
 O objetivo era criar um site utilizando JS puro e HTML + CSS e por em pratica os conhecimentos adquiridos no curso da <a href="https://alunos.b7web.com.br/"> b7web</a> 
 
-<a href="pizzaria-do-diegod.netlify.com"> DEMO</a> 
+<a href="https://pizzaria-do-diegod.netlify.com/"> Demo </a> 
 
 <h3> Tela principal </h3>
 <img src= "r-bg.png" />
